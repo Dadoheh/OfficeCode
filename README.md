@@ -1,5 +1,5 @@
 Ze względów na nową polityke bezpieczeństwa kod dostępu do biura zapisujemy w bardzo nietypowej formie, 
-jako zbiór ruchów na klawiaturze numerycznej.
+jako zbiór ruchów na klawiaturze numerycznej./
 Każdy przycisk, który ma zostać naciśnięty, można znaleźć, zaczynając od pozycji poprzedniego przycisku 
 i przechodząc do sąsiednich przycisków na klawiaturze: U przesuwa się w górę, D - w dół, L - w lewo, a R - w prawo. 
 Każdy wiersz instrukcji odpowiada jednemu przyciskowi, zaczynając od poprzedniego przycisku 
